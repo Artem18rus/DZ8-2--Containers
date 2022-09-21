@@ -12,4 +12,4 @@ export class ErrorRepository {
   }
 }
 export const eks2 = new ErrorRepository();
-//eks2.translate(3);
+// eks2.translate(3);
